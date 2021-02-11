@@ -26,6 +26,8 @@ from nanpy.eeprom import EEPROM
 
 from nanpy.TLC5947 import TLC5947
 
+from nanpy.bme280 import BME280
+
 # GW-Robotics Modules
 from nanpy.ultrasonic import Ultrasonic
 from nanpy.colorsensor import ColorSensor
